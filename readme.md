@@ -18,7 +18,6 @@ Este proyecto tiene como objetivo explorar cómo las nuevas tecnologías afectan
 - Python
 - Matplotlib
 - Numpy
-- Otros (si es necesario)
 
 ## Autor:
 [José Mateo Ramos Martínez]
